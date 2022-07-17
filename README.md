@@ -6,12 +6,13 @@ Maulana Hasanudin
 TI.20.D.1
 ```
 
-## 1. Dashboard
-![11](https://user-images.githubusercontent.com/101716660/179383404-8c1bf048-4e65-4457-a169-43862900c6f5.png)
+## 1. Dashboard![1111111](https://user-images.githubusercontent.com/101716660/179383589-b1e8ec24-c38b-4ca0-9e20-f65911da0850.png)
+
 
 
 ## 2. Login
-![2](https://user-images.githubusercontent.com/101716660/179383412-f575f2db-9bff-4e3f-a777-826f43321d10.png)
+![2222](https://user-images.githubusercontent.com/101716660/179383633-92da7230-3a8a-45bb-a44b-5690d8c799c1.png)
+
 
 
 ## 3. Data Dokter
