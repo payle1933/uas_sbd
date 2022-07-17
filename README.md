@@ -1,42 +1,35 @@
-# klinik
-```
-Nama	: Maulana hasanudin
-NIM	: 312010106
-Kelas	: TI.20.D2
-```
+# klinik_fitri
+
+Nama			| : Fitriyanah
+--------- | ----------
+NIM				| : 312010121
+Kelas			| : TI.20.D2
+
+
 
 ## 1. Dashboard
-![11](https://user-images.githubusercontent.com/101716660/179383043-418a95be-a5fc-4161-9e31-6ae33f584f43.png)
-
+![dashboard](https://user-images.githubusercontent.com/106644837/179365199-5f779ada-51a2-4003-aa79-01b64ac19d56.png)
 
 ## 2. Login
-![2](https://user-images.githubusercontent.com/101716660/179382800-943ab612-add7-44d6-af22-69c2937d730c.png)
-
+![login new](https://user-images.githubusercontent.com/106644837/179365237-1a4dbd3d-4021-44df-b851-8ca0b92cbb00.png)
 
 ## 3. Data Dokter
-![3](https://user-images.githubusercontent.com/101716660/179382806-d546c3dc-d8f9-4d63-8640-1b89d5bcf786.png)
-
+![dokter](https://user-images.githubusercontent.com/106644837/179365251-774d8803-a5c7-4c35-9ad7-b73a1a3a057d.png)
 
 ## 4. Data Pasien
-![4](https://user-images.githubusercontent.com/101716660/179382814-bf672312-47d5-46dc-9f2b-d51d45f6cedf.png)
+![pasien](https://user-images.githubusercontent.com/106644837/179365293-6230873b-c7ef-4b5a-b985-c4030ffa29f4.png)
 
+### - Edit data pasien
+![edit data pasien](https://user-images.githubusercontent.com/106644837/179365351-2096b6df-bc88-4bcd-a0e4-f0f2e3d8743b.png)
 
-## - Edit data pasien
-![5](https://user-images.githubusercontent.com/101716660/179382835-6befdf39-1662-4292-a08a-1f75a786b6c4.png)
-
-
-
-## - Tambah data pasien
-![6](https://user-images.githubusercontent.com/101716660/179382836-7f5e3532-06b5-4246-b72e-69e56b81dd9d.png)
-
+### - Tambah data pasien
+![tambah data pasien](https://user-images.githubusercontent.com/106644837/179365374-0ae02e39-d321-4237-ab3f-9d15eb1c0de4.png)
 
 ## 5. Data Obat
-![7](https://user-images.githubusercontent.com/101716660/179382828-7bdf220e-7542-4a6c-a3c9-7586cac9c5f9.png)
-
+![obat](https://user-images.githubusercontent.com/106644837/179365407-09e809a6-ed16-445a-b876-50cf00ad3834.png)
 
 ## 6. Rekap Medis
-![8](https://user-images.githubusercontent.com/101716660/179382823-e764e6e4-40c0-4a3f-aea0-f98a5a30bfbe.png)
+![rekam medis](https://user-images.githubusercontent.com/106644837/179365470-42e67cd4-5c70-4358-88e9-d3d8ed07d341.png)
 
-
-## - Tampilan data rekap medis
-![9](https://user-images.githubusercontent.com/101716660/179382819-c0faff10-0f6b-44be-b5cb-1b84adb5d446.png)
+### - Tampilan data rekap medis
+![tampilan data rekam medis](https://user-images.githubusercontent.com/106644837/179365516-94160d49-71db-4411-9e2d-ffbe0b9facf3.png)
