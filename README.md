@@ -6,7 +6,7 @@ Kelas	: TI.20.D2
 ```
 
 ## 1. Dashboard
-![1](https://user-images.githubusercontent.com/101716660/179382792-df3c31b8-dd9a-4cd0-b833-4c172d417757.png)
+![11](https://user-images.githubusercontent.com/101716660/179383043-418a95be-a5fc-4161-9e31-6ae33f584f43.png)
 
 
 ## 2. Login
